@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
 class StringCalculator
-  def add(input); end
+  def add(input)
+    0
+  end
 end
